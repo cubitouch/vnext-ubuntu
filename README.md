@@ -3,7 +3,7 @@ vnext-ubuntu
 
 For a better ASP.NET 5 (aka vNext) integration on Ubuntu !
 
-![Nautilus shortcuts](http://cubitouch.fr/screenshots/elockution.png)
+![Nautilus shortcuts](https://pbs.twimg.com/media/B83kpJfIIAEAFbm.png)
 
 Dependencies: nautilus-actions, zenity
 Install: 
