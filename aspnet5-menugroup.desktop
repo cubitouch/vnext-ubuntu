@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Menu
+Name[en_US]=ASP.NET 5
+Name[en]=ASP.NET 5
+Name[C]=ASP.NET 5
+ItemsList=aspnet5-createmvcview;aspnet5-createapplication;

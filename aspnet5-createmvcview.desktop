@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Action
+ToolbarLabel[en_US]=Create MVC View
+ToolbarLabel[en]=Create MVC View
+ToolbarLabel[C]=Create MVC View
+Name[en_US]=Create MVC View
+Name[en]=Create MVC View
+Name[C]=Create MVC View
+Profiles=profile-zero;
+TargetLocation=true
+TargetContext=false
+
+[X-Action-Profile profile-zero]
+Name[en_US]=Default profile
+Name[en]=Default profile
+Name[C]=Default profile
+Path=%f
+Exec=/home/hca/createMvcView.sh 
