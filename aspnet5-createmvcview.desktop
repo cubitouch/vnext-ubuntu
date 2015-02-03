@@ -15,4 +15,4 @@ Name[en_US]=Default profile
 Name[en]=Default profile
 Name[C]=Default profile
 Path=%f
-Exec=.local/share/file-manager/sh/mvc-view.sh 
+Exec=~/.local/share/file-manager/actions/sh/mvc-view.sh 
