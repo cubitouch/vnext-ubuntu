@@ -1,7 +1,7 @@
 vnext-ubuntu
 ---------------
 
-For a better ASP.NET 5 (aka vNext) integration on Ubuntu !
+For a better ASP.NET 5 (aka vNext) development integration on Ubuntu !
 
 ![Nautilus shortcuts](https://pbs.twimg.com/media/B83kpJfIIAEAFbm.png)
 
@@ -11,7 +11,7 @@ This allow you to add different types of shortcuts for the "yo aspnet" command d
 
 With shell prompt
 -------
-- Prompt to bootstrap a new aspnet5 application (Console, WebService, WebSite, ...)
+- Bootstrap a new ASP.NET 5 project (Console Application, Web Application, MVC Application, Nancy ASP.NET Application, Class Library, Unit test project)
 
 With filename input dialog
 -------
@@ -38,7 +38,7 @@ Simple file creation
 Dependencies
 -----------
 
-nautilus-actions, zenity, nodejs, npm, yeoman, generator-aspnet
+nautilus-actions, zenity, nodejs, npm, yeoman, [generator-aspnet](https://www.npmjs.com/package/generator-aspnet)
 
 Install
 -----------
