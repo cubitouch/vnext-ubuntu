@@ -9,7 +9,7 @@ Description
 -----------
 This allow you to add different types of shortcuts for the "yo aspnet" command directly into the nautilus file manager.
 
-With shell
+With shell prompt
 -------
 - Prompt to bootstrap a new aspnet5 application (Console, WebService, WebSite, ...)
 
@@ -45,5 +45,6 @@ Install
 ```shell
 wget https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/package.zip
 unzip package.zip -d ~/.local/share/file-manager/actions
+chmod +x ~/.local/share/file-manager/actions/sh/*.sh
 nautilus -q
 ```

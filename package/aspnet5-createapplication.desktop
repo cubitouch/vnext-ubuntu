@@ -11,6 +11,7 @@ Name[C]=Boostrap ASP.NET 5
 Profiles=profile-zero;
 
 [X-Action-Profile profile-zero]
+Path=%f
 Exec=gnome-terminal  -e "yo aspnet"
 Name[en_US]=Default profile
 Name[en]=Default profile
