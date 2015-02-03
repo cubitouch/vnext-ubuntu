@@ -15,4 +15,4 @@ Name[en_US]=Default profile
 Name[en]=Default profile
 Name[C]=Default profile
 Path=%f
-Exec=/home/hca/createMvcView.sh 
+Exec=.local/share/file-manager/sh/mvc-view.sh 

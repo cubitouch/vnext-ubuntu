@@ -2,12 +2,12 @@
 Type=Action
 TargetLocation=true
 TargetContext=false
-ToolbarLabel[en_US]=Create ASP.NET 5 App
-ToolbarLabel[en]=Create ASP.NET 5 App
-ToolbarLabel[C]=Create ASP.NET 5 App
-Name[en_US]=Create ASP.NET 5 App
-Name[en]=Create ASP.NET 5 App
-Name[C]=Create ASP.NET 5 App
+ToolbarLabel[en_US]=Boostrap ASP.NET 5
+ToolbarLabel[en]=Boostrap ASP.NET 5
+ToolbarLabel[C]=Boostrap ASP.NET 5
+Name[en_US]=Boostrap ASP.NET 5
+Name[en]=Boostrap ASP.NET 5
+Name[C]=Boostrap ASP.NET 5
 Profiles=profile-zero;
 
 [X-Action-Profile profile-zero]
