@@ -40,7 +40,7 @@ This allow you to add different types of shortcuts for the "yo aspnet" command d
 
 Run the [dependencies.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/dependencies.sh) script
 
-Also, the Nautilus-Actions Preferences should be like this:
+The Nautilus-Actions Preferences should be like this:
 ![Nautilus shortcuts](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/images/nautilus-actions-preferences.png)
 
 ## Install
