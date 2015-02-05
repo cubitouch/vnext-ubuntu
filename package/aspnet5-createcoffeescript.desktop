@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Action
+ToolbarLabel[en_US]=New Coffee Script file
+ToolbarLabel[en]=New Coffee Script file
+ToolbarLabel[C]=New Coffee Script file
+Name[en_US]=New Coffee Script file
+Name[en]=New Coffee Script file
+Name[C]=New Coffee Script file
+Profiles=profile-zero;
+TargetLocation=true
+TargetContext=false
+
+[X-Action-Profile profile-zero]
+Name[en_US]=Default profile
+Name[en]=Default profile
+Name[C]=Default profile
+Path=%f
+Exec=/bin/sh -c '$HOME/.local/share/file-manager/actions/sh/coffee-script.sh'

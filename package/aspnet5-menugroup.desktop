@@ -3,4 +3,4 @@ Type=Menu
 Name[en_US]=ASP.NET 5
 Name[en]=ASP.NET 5
 Name[C]=ASP.NET 5
-ItemsList=aspnet5-createapplication;aspnet5-createmvcview;
+ItemsList=aspnet5-createapplication.desktop;aspnet5-createbower.desktop;aspnet5-createclass.desktop;aspnet5-createcoffeescript.desktop;aspnet5-createconfig.desktop;aspnet5-creategulpfile.desktop;aspnet5-createhtmlpage.desktop;aspnet5-createjavascript.desktop;aspnet5-createjscript.desktop;aspnet5-createjson.desktop;aspnet5-createmvccontroller.desktop;aspnet5-createmvcview.desktop;aspnet5-createpackagejson.desktop;aspnet5-createstartupclass.desktop;aspnet5-createtextfile.desktop;aspnet5-createtypescript.desktop;aspnet5-createwebapicontroller.desktop;

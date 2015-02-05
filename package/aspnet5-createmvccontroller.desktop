@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Action
+ToolbarLabel[en_US]=New MVC Controller
+ToolbarLabel[en]=New MVC Controller
+ToolbarLabel[C]=New MVC Controller
+Name[en_US]=New MVC Controller
+Name[en]=New MVC Controller
+Name[C]=New MVC Controller
+Profiles=profile-zero;
+TargetLocation=true
+TargetContext=false
+
+[X-Action-Profile profile-zero]
+Name[en_US]=Default profile
+Name[en]=Default profile
+Name[C]=Default profile
+Path=%f
+Exec=/bin/sh -c '$HOME/.local/share/file-manager/actions/sh/mvc-controller.sh'

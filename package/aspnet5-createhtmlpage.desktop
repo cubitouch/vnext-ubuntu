@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Action
+ToolbarLabel[en_US]=New HTML Page
+ToolbarLabel[en]=New HTML Page
+ToolbarLabel[C]=New HTML Page
+Name[en_US]=New HTML Page
+Name[en]=New HTML Page
+Name[C]=New HTML Page
+Profiles=profile-zero;
+TargetLocation=true
+TargetContext=false
+
+[X-Action-Profile profile-zero]
+Name[en_US]=Default profile
+Name[en]=Default profile
+Name[C]=Default profile
+Path=%f
+Exec=/bin/sh -c '$HOME/.local/share/file-manager/actions/sh/html-page.sh'
