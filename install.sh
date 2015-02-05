@@ -12,6 +12,7 @@ cp -r package/* ~/.local/share/file-manager/actions
 chmod +x ~/.local/share/file-manager/actions/sh/*.sh
 
 #nautilus-actions preferences configuration
+mkdir -p ~/.config/nautilus-actions
 echo '
 [runtime]
 items-create-root-menu=false
