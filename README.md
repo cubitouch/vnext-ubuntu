@@ -40,7 +40,7 @@ This allow you to add different types of shortcuts for the "yo aspnet" command d
 
 Run the [dependencies.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/dependencies.sh) script
 
-Run the "yo aspnet" command for the first time to **answer to the report usage question** (agreement is not mandatory):
+Run the ```yo aspnet``` command for the first time to **answer to the report usage question** (agreement is not mandatory):
 ![Nautilus shortcuts](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/images/yo-aspnet-report.png)
 
 ## Install
