@@ -52,6 +52,10 @@ Run the ```yo aspnet``` command for the first time to **answer to the report usa
 
 Run the [install.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/install.sh) script
 
+## Demonstration
+
+Go [Youtube](https://www.youtube.com/watch?v=MaZgC3nYnpk&feature=youtu.be) for a video demonstration.
+
 ## ToDo
 - Start app ?
 - Start website ?
