@@ -42,6 +42,7 @@ Go [Youtube](https://www.youtube.com/watch?v=MaZgC3nYnpk&feature=youtu.be) for a
 - [generator-aspnet](https://www.npmjs.com/package/generator-aspnet)
 
 **Warning: The script below script was build for fresh install, it will erase every Nautilus-Actions preferences configuration you may have.**
+
 Run the [dependencies.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/dependencies.sh) script
 
 Run the ```yo aspnet``` command for the first time to **answer to the report usage question** (agreement is not mandatory):
@@ -61,3 +62,4 @@ Run the [install.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/ma
 - Start website ?
 - Check compilation ?
 - Other kvm / kre / k shortcuts ?
+- nuget ?
