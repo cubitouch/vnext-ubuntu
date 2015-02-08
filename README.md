@@ -30,6 +30,9 @@ This allow you to add different types of shortcuts for the "yo aspnet" command d
 - PackageJson
 - StartupClass
 
+## Demonstration
+Go [Youtube](https://www.youtube.com/watch?v=MaZgC3nYnpk&feature=youtu.be) for a video demonstration.
+
 ## Dependencies
 - Nautilus-Actions
 - Zenity
@@ -38,6 +41,7 @@ This allow you to add different types of shortcuts for the "yo aspnet" command d
 - Yeoman
 - [generator-aspnet](https://www.npmjs.com/package/generator-aspnet)
 
+**Warning: The script below script was build for fresh install, it will erase every Nautilus-Actions preferences configuration you may have.**
 Run the [dependencies.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/dependencies.sh) script
 
 Run the ```yo aspnet``` command for the first time to **answer to the report usage question** (agreement is not mandatory):
@@ -51,10 +55,6 @@ Run the ```yo aspnet``` command for the first time to **answer to the report usa
 - Reset Nautilus
 
 Run the [install.sh](https://raw.githubusercontent.com/cubitouch/vnext-ubuntu/master/install.sh) script
-
-## Demonstration
-
-Go [Youtube](https://www.youtube.com/watch?v=MaZgC3nYnpk&feature=youtu.be) for a video demonstration.
 
 ## ToDo
 - Start app ?
